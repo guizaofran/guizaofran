@@ -7,7 +7,7 @@ Olá! Me chamo Guilherme Crispim e sou estudante de Engenharia de Software. Tenh
 Atualmente, venho aprimorando meus conhecimentos principalmente no ecossistema Java, com foco em Spring Boot, bancos de dados e desenvolvimento de aplicações.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ian-maciel-970998304/">
+  <a href="https://www.linkedin.com/in/guilhermecrispim10/">
     <img
       alt="LinkedIn"
       title="Me siga no LinkedIn"
@@ -15,7 +15,7 @@ Atualmente, venho aprimorando meus conhecimentos principalmente no ecossistema J
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ianmaciel0612">
+  <a href="https://github.com/guizaofran">
     <img
       alt="GitHub"
       title="Me siga no GitHub"
@@ -23,7 +23,7 @@ Atualmente, venho aprimorando meus conhecimentos principalmente no ecossistema J
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/iandobronxs">
+  <a href="https://www.instagram.com/_guifraan/">
     <img
       alt="Instagram"
       title="Me siga no Instagram"
@@ -33,11 +33,11 @@ Atualmente, venho aprimorando meus conhecimentos principalmente no ecossistema J
 </p>
 
 <p align="left">
-  <a href="https://github.com/ianmaciel0612?tab=followers">
+  <a href="https://github.com/guizaofran?tab=followers">
     <img
       alt="Seguidores"
       title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/ianmaciel0612?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/followers/guizaofran?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
 </p>
@@ -46,45 +46,9 @@ Atualmente, venho aprimorando meus conhecimentos principalmente no ecossistema J
 
 ### 🤖 Linguagens e Tecnologias
 
-<table>
-  <tr>
-    <td>
-      <img width="30px" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    </td>
-    <td>
-      <img width="30px" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    </td>
-    <td>
-      <img width="30px" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    </td>
-    <td>
-      <img width="30px" alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-    </td>
-    <td>
-      <img width="30px" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    </td>
-    <td>
-      <img width="30px" alt="Node.js" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-    </td>
-    <td>
-      <img width="30px" alt="Express" title="Express" src="https://cdn.simpleicons.org/express/white"/>
-    </td>
-    <td>
-      <img width="30px" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-    </td>
-    <td>
-      <img width="30px" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    </td>
-    <td>
-      <img width="30px" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/white"/>
-    </td>
-    <td>
-      <img width="30px" alt="Windows" title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
-    </td>
-  </tr>
-</table>
-
-**Também tenho contato com:** SQL, Mongoose, Infraestrutura, Manutenção de computadores, Redes e Hardware/periféricos.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,github,vscode,idea,postman&theme=dark&perline=10" alt="Tech Stack" />
+</div>
 
 ---
 
@@ -95,14 +59,14 @@ Atualmente, venho aprimorando meus conhecimentos principalmente no ecossistema J
     <td width="50%">
       <img
         width="100%"
-        src="https://github-readme-stats-multiuser.vercel.app/api?usernames=ianmaciel0612&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats-multiuser.vercel.app/api?usernames=guizaofran&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
         alt="Estatísticas do GitHub"
       />
     </td>
     <td width="50%">
       <img
         width="100%"
-        src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=ianmaciel0612&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=guizaofran&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
         alt="Tecnologias mais utilizadas"
       />
     </td>
@@ -112,7 +76,7 @@ Atualmente, venho aprimorando meus conhecimentos principalmente no ecossistema J
     <td width="50%">
       <img
         width="100%"
-        src="https://streak-stats.demolab.com/?user=ianmaciel0612&theme=tokyonight"
+        src="https://streak-stats.demolab.com/?user=guizaofran&theme=tokyonight"
         alt="GitHub Streak"
       />
     </td>
